@@ -72,8 +72,9 @@ h4 {
 }
 
 h5 {
-	color: #000000;
+	color: #E77500;
 	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
 	padding: 0px;
 	max-width: 864px;
 	display: block;
@@ -123,6 +124,22 @@ ul.clases li{
 }
 
 ul.clases a{
+    display: inline-block;
+    padding: 10px;
+}
+
+ul.bibliografia{
+    max-width: 864px;
+    text-align: justify;
+}
+
+/*
+ul.bibliografia li{
+    display: inline;
+}
+*/
+
+ul.bibliografia a{
     display: inline-block;
     padding: 10px;
 }
